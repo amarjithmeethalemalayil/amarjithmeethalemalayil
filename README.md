@@ -17,7 +17,8 @@ Hi there! 👋 I'm a Flutter developer with a passion for building impactful mob
 
 ---
 [![](https://visitcount.itsvg.in/api?id=amarjithmeethalemalayil&icon=0&color=0)](https://visitcount.itsvg.in)
-![](https://leetcard.jacoblin.cool/amarrrhh?site=cn)
+![LeetCode Status](https://leetcard.jacoblin.cool/amarrrhh?site=cn)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
