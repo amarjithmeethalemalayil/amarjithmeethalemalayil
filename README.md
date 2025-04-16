@@ -1,5 +1,5 @@
 # AMARJITH M M
-Hi there! 👋 I'm a Flutter developer with a passion for building impactful mobile apps. Currently, I’m working on a Mental Health App as part of a freelance project, focusing on supporting users with their mental wellness journey.<br><br>Alongside my work in Flutter, I’m also learning Node.js to enhance my backend development skills and explore full-stack possibilities. I’m always looking to grow and take on new challenges.<br><br>Feel free to explore my repositories, and don't hesitate to reach out if you have any questions  or collaboration opportunities!..
+Hi there!  I'm a Flutter developer with a passion for building impactful mobile apps. Currently, I’m working on a Mental Health App as part of a freelance project, focusing on supporting users with their mental wellness journey.<br><br>Alongside my work in Flutter, I’m also learning Node.js to enhance my backend development skills and explore full-stack possibilities. I’m always looking to grow and take on new challenges.<br><br>Feel free to explore my repositories, and don't hesitate to reach out if you have any questions  or collaboration opportunities!..
 
 
 ## 🌐 Socials:
